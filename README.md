@@ -12,7 +12,7 @@ Install
 
 
 
-Usage
+Usage -- Example
 ---
 
 `npm start`
